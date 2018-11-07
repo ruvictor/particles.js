@@ -1,0 +1,12 @@
+body{
+  background-color: #000;
+}
+#welcome{
+  position: absolute;
+  background-color: #ddd;
+  border: 1px solid green;
+  padding: 20px;
+  top: 100px;
+  left: 40%;
+  font-size: 20px;
+}
